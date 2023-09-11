@@ -9,7 +9,7 @@ authors = [
     { name="Gonzalo Pincheira", email="g.pincheira.a@gmail.com" },
     { name="Cristóbal Domínguez", email="cristobal.dominguez@latam.com" },
 ]
-description = "A small example package"
+description = "ADO UTILS library for Bootcamp"
 readme = "README.md"
 requires-python = ">=3.10"
 classifiers = [
@@ -19,7 +19,6 @@ classifiers = [
 ]
 dependencies = [
     "num2words==0.5.12"
-
 ]
 
 [project.urls]
