@@ -7,6 +7,7 @@ name = "adoutils"
 version = "0.2.0"
 authors = [
     { name="Gonzalo Pincheira", email="g.pincheira.a@gmail.com" },
+    { name="Cristóbal Domínguez", email="cristobal.dominguez@latam.com" },
 ]
 description = "A small example package"
 readme = "README.md"
@@ -18,6 +19,7 @@ classifiers = [
 ]
 dependencies = [
     "num2words==0.5.12"
+
 ]
 
 [project.urls]
